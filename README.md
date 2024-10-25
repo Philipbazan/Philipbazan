@@ -2,7 +2,7 @@ Hey there! I'm Philip Bazan, an experienced Accounts Payable Specialist/Staff Ac
 
 Transitioning into the exciting world of Business Intelligence and Data Analysis, I'm on a mission to leverage my analytical skills and domain knowledge to drive informed decision-making.
 
-I hold a solid foundation in finance with a Bachelors in Business Finance from Cal State Fullerton, complemented by rigorous self-study and formal education in BI/Data Analysis while enrolled in the Business Intelligence Analyst Program at Tripleten Academy. My journey into this field has been fueled by continuous learning and hands-on projects:
+I hold a solid foundation in finance with a Bachelors in Business Finance from Cal State Fullerton, complemented by self-study and formal education in BI/Data Analysis while enrolled in the Business Intelligence Analyst Program at Tripleten Academy. My journey into this field has been fueled by continuous learning and hands-on projects:
 
 •	Excel: Proficient in creating dynamic financial models, automating reports, and conducting data analysis using advanced formulas and VBA macros. (See My project on NYC Rental Investment Opportunity Analysis)
 
