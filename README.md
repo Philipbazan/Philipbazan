@@ -1,3 +1,7 @@
+# Philip Bazan's Business Intelligence Analyst Github #
+
+Philipmb@protonmail.com
+
 Hey there! I'm Philip Bazan, an experienced Accounts Payable Specialist/Staff Accountant Consultant with a passion for diving into data and uncovering insights. With over 5 years of hands-on experience in financial operations in diverse industries, I've developed a keen eye for detail and a knack for solving accounts payable problems.
 
 Transitioning into the exciting world of Business Intelligence and Data Analysis, I'm on a mission to leverage my analytical skills and domain knowledge to drive informed decision-making.
