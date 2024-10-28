@@ -2,12 +2,10 @@
 
 Philipmb@protonmail.com
 
-Hey there! I'm Philip Bazan, an experienced Accounts Payable Specialist/Staff Accountant Consultant with a passion for diving into data and uncovering insights. With over 5 years of hands-on experience in financial operations in diverse industries, I've developed a keen eye for detail and a knack for solving accounts payable problems.
+Hi there! I’m Philip Bazan, a Business Intelligence Analyst with a strong foundation in financial operations and a keen enthusiasm for data-driven decision-making. With over five years in accounts payable and financial analysis, I’ve honed an analytical mindset and a deep attention to detail—skills I’m now channeling toward uncovering actionable insights for businesses.
 
-Transitioning into the exciting world of Business Intelligence and Data Analysis, I'm on a mission to leverage my analytical skills and domain knowledge to drive informed decision-making.
+I'm transitioning into Business Intelligence with a Bachelor’s in Business Finance from Cal State Fullerton and recent completion of the Business Intelligence Analyst Program at Tripleten Academy (2024). This formal education, coupled with my self-driven projects, has equipped me with expertise in Excel, SQL, Tableau, and Power BI.
 
-I hold a solid foundation in finance with a Bachelors in Business Finance from Cal State Fullerton, complemented by self-study and formal education in BI/Data Analysis being a graduate of the Business Intelligence Analyst Program at Tripleten Academy in 2024.
+In my GitHub repositories, you’ll find various projects demonstrating my analytical skills and technical proficiency, each crafted to showcase my commitment to the BI field.
 
-In my GitHub repositories, you'll find a collection of projects showcasing my expertise in Excel, SQL, Tableau, and Power BI.
-
-Please see links to my projects below!
+Please explore my projects through the links below!
