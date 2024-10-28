@@ -13,4 +13,5 @@ I hold a solid foundation in finance with a Bachelors in Business Finance from C
 •	Power BI: Experienced in building interactive reports and dashboards, transforming raw data into actionable insights using Power Query and DAX.
 
 In my GitHub repositories, you'll find a collection of projects showcasing my expertise in Excel, SQL, Tableau, and Power BI. From financial data analysis to interactive visualizations, each project reflects my dedication to mastering these tools and applying them to real-world scenarios.
-I’ve posted my email, socials and other links at the top of my profile. Let's connect and collaborate on projects that harness the power of data to drive business success!
+
+Please see links to my projects below!
